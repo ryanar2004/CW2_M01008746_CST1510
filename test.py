@@ -1,2 +1,1 @@
-print('hello world')
-print('no')
+print('hello world version 2')
